@@ -1,0 +1,54 @@
+h1 {
+	font: Times New Roman;
+	font-size: 5vw;
+	text-align: center;
+	background-color: #9BB3B5;
+}
+
+h3 {
+	font: Times New Roman;
+	font-size: 4vw;
+	text-align: center;
+	background-color: #5E8588;
+	
+}
+
+p{
+	font: calibri;
+	font-size: 2vw;
+	text-align: left;
+}
+canvas{
+	border:1px solid black;
+	background-color:#D9EBC8;
+	
+}
+
+button{
+	font-family: Comic Sans MS;
+	background-color: #F6F4B6;
+	font-size: 2vw;
+}
+
+/* These are shared properties of the table, table header and table data */
+table, th, td {
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+
+th, td{
+	padding: 15px;
+}
+
+th {
+	font-family: calibri;
+	font-size: 2vw;
+	text-align: left;
+}
+
+td {
+	font-family: calibri;
+	font-size: 2vw;
+	text-align: left;
+	
+}
